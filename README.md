@@ -4,5 +4,5 @@ So, I spent a lot of time going round in circles, extracting the bits that I tho
 
 This project is part of a seried of development notes I want to write to document some of the stuff I learnt along the way. The article that goes with it can be found on my web site.
 
- [Settings View Article](http://www.sabarnett.co.uk/blogPage.php?id=settingsView)
+ [Settings View Article](http://www.sabarnett.co.uk/blogPage.php?id=settingsWindow)
 
