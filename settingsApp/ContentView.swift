@@ -1,11 +1,13 @@
 //
-// File: ContentView.swift
-// Package: settingsApp
-// Created by: Steven Barnett on 01/07/2024
-// 
+// -----------------------------------------
+// Original project: settingsApp
+// Original package: settingsApp
+// Created on: 11/07/2024 by: Steven Barnett
+// Web: http://www.sabarnett.co.uk
+// GitHub: https://www.github.com/sabarnett
+// -----------------------------------------
 // Copyright © 2024 Steven Barnett. All rights reserved.
 //
-        
 
 import SwiftUI
 
